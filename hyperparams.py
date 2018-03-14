@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #/usr/bin/python2
 '''
-By kyubyong park. kbpark.linguist@gmail.com. 
-https://www.github.com/kyubyong/dc_tts
+By krishna parihar. krish.parihar1@gmail.com. 
+https://github.com/krishnna-parihar/RKSTTP.git
 '''
 class Hyperparams:
     '''Hyper parameters'''
